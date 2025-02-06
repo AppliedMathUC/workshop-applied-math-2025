@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Workshop on Applied Mathematics!
+# Workshop on Applied Mathematics
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
