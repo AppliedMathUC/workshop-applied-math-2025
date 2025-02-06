@@ -22,7 +22,7 @@ For example:
 > If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
 > All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.
 
-# workshop-template
+# workshop-Applied Mathematics 2025
 
 `workshop-template` is a Jekyll project to create a simple workshop website, based on the [Minima theme](https://github.com/jekyll/minima){:target='_blank'}, designed for hosting on [gh-pages](https://pages.github.com/){:target='_blank'}.
 
