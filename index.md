@@ -8,7 +8,7 @@ title: Home
 
 This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudez, Joaquín Carvajal, and Jhon Rodriguez.
 
-*Add your workshop abstract here!*
+This workshop aims to bring together researchers and students to share recent advancements and foster the exchange of ideas in key areas such as Optimization, Machine Learning, Numerical Analysis, Inverse Problems, and Discrete Mathematics. By creating a collaborative and interdisciplinary environment, we seek to encourage discussions that bridge different mathematical fields and highlight the far-reaching impact of applied mathematics in science, engineering, and technology. Our goal is to promote meaningful interactions, inspire innovative research, and strengthen the connections between academia and industry.
 
 "Mathematics is the queen of the sciences, and the theory of applications of mathematics is the queen of engineering." – James Clerk Maxwell
 
