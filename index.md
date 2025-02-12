@@ -6,7 +6,7 @@ title: Home
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudes, Joaquín Carvajal, and Jhon Rodriguez.
+This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudez, Joaquín Carvajal, and Jhon Rodriguez.
 
 *Add your workshop abstract here!*
 
