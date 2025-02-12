@@ -12,8 +12,6 @@ This workshop aims to bring together researchers and students to share recent ad
 
 "Mathematics is the queen of the sciences, and the theory of applications of mathematics is the queen of engineering." – James Clerk Maxwell
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
-
 <div class="toc" markdown="1">
 ## Contents:
 
