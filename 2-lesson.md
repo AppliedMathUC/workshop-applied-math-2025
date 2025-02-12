@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Registration
 nav: true
 ---
 
