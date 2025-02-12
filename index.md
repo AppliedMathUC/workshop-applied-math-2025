@@ -5,6 +5,7 @@ title: Home
 # Workshop on Applied Mathematics
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+p style="text-align: justify;">
 
 This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudez, Joaquín Carvajal, and Jhon Rodriguez.
 
