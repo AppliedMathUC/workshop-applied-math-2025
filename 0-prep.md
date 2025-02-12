@@ -1,5 +1,5 @@
 ---
-title: Prep
+title: Invited speakers
 nav: true
 ---
 
