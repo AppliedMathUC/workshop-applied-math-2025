@@ -5,13 +5,14 @@ title: Home
 # Workshop on Applied Mathematics
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-p style="text-align: justify;">
+<p style="text-align: justify;">
 
 This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudez, Joaquín Carvajal, and Jhon Rodriguez.
 
 This workshop aims to bring together researchers and students to share recent advancements and foster the exchange of ideas in key areas such as Optimization, Machine Learning, Numerical Analysis, Inverse Problems, and Discrete Mathematics. By creating a collaborative and interdisciplinary environment, we seek to encourage discussions that bridge different mathematical fields and highlight the far-reaching impact of applied mathematics in science, engineering, and technology. Our goal is to promote meaningful interactions, inspire innovative research, and strengthen the connections between academia and industry. This event will take place on March 6–7, 2025, at the San Joaquín campus of the Pontifical Catholic University of Chile.
 
 "Mathematics is the queen of the sciences, and the theory of applications of mathematics is the queen of engineering." – James Clerk Maxwell
+</p>
 
 <div class="toc" markdown="1">
 ## Contents:
