@@ -58,12 +58,18 @@ nav: true
             <td>9:30</td>
             <td>Charla 1: Víctor Verdugo</td>
             <td>9:30</td>
-            <td>Charla 6: Víctor Mercado</td>
+            <td>Minicharla estudiante</td>
+        </tr>
+        <tr>
+            <td>9:50</td>
+            <td></td>
+            <td>9:50</td>
+            <td>Minicharla estudiante</td>
         </tr>
         <tr>
             <td>10:20</td>
             <td>Coffee break</td>
-            <td>10:20</td>
+            <td>10:10</td>
             <td>Coffee break</td>
         </tr>
         <tr>
@@ -88,19 +94,19 @@ nav: true
             <td>14:00</td>
             <td>Charla 4: Gabriela Arriaga</td>
             <td>14:00</td>
-            <td>Minicharla estudiante</td>
+            <td>Charla 8: Matias Cordurier</td>
         </tr>
         <tr>
             <td>14:50</td>
             <td>Minicharla estudiante</td>
-            <td>14:20</td>
-            <td>Minicharla estudiante</td>
+            <td>14:50</td>
+            <td>Charla 9: Alberto Mercado</td>
         </tr>
         <tr>
             <td>15:10</td>
             <td>Minicharla estudiante</td>
-            <td>14:40</td>
-            <td>Charla 9: Matias Cordurier</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>15:30</td>
