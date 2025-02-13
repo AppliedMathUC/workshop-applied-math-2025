@@ -3,36 +3,124 @@ title: Program
 nav: true
 ---
 
-# Introduction
-
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/){:target='_blank'}.
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish instructional websites. 
-For example: 
-
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-> Note:
-> There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-> If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-> All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.
-
-# workshop-Applied Mathematics 2025
-
-`workshop-template` is a Jekyll project to create a simple workshop website, based on the [Minima theme](https://github.com/jekyll/minima){:target='_blank'}, designed for hosting on [gh-pages](https://pages.github.com/){:target='_blank'}.
-
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
-
-## Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and gh-pages makes this super easy.
-
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources){:target='_blank'} since anyone can easily fork and adapt!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop Schedule</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4a261;
+        }
+        .day-header {
+            background-color: #2a9d8f;
+            color: white;
+        }
+        .day-header-friday {
+            background-color: #e9c46a;
+        }
+    </style>
+</head>
+<body>
+    <h2>Workshop on Applied Mathematics UC 2025</h2>
+    <table>
+        <tr>
+            <th>Horas</th>
+            <th class="day-header">Jueves 06-03-2025</th>
+            <th>Horas</th>
+            <th class="day-header day-header-friday">Viernes 07-03-2025</th>
+        </tr>
+        <tr>
+            <td>8:45</td>
+            <td>Recepción y registro</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9:15</td>
+            <td>Bienvenida: Decano de la Facultad de Matemática</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9:30</td>
+            <td>Charla 1: Víctor Verdugo</td>
+            <td>9:30</td>
+            <td>Charla 6: Víctor Mercado</td>
+        </tr>
+        <tr>
+            <td>10:20</td>
+            <td>Coffee break</td>
+            <td>10:20</td>
+            <td>Coffee break</td>
+        </tr>
+        <tr>
+            <td>10:50</td>
+            <td>Charla 2: Benjamín Palacios</td>
+            <td>10:50</td>
+            <td>Charla 7: Mircea Petrache</td>
+        </tr>
+        <tr>
+            <td>11:40</td>
+            <td>Charla 3: Claudio Muñoz</td>
+            <td>11:40</td>
+            <td>Charla 8: Soledad Villar</td>
+        </tr>
+        <tr>
+            <td>12:30</td>
+            <td>Almuerzo</td>
+            <td>12:30</td>
+            <td>Almuerzo</td>
+        </tr>
+        <tr>
+            <td>14:00</td>
+            <td>Charla 4: Gabriela Arriaga</td>
+            <td>14:00</td>
+            <td>Minicharla estudiante</td>
+        </tr>
+        <tr>
+            <td>14:50</td>
+            <td>Minicharla estudiante</td>
+            <td>14:20</td>
+            <td>Minicharla estudiante</td>
+        </tr>
+        <tr>
+            <td>15:10</td>
+            <td>Minicharla estudiante</td>
+            <td>14:40</td>
+            <td>Charla 9: Matias Cordurier</td>
+        </tr>
+        <tr>
+            <td>15:30</td>
+            <td>Coffee break</td>
+            <td>15:30</td>
+            <td>Cierre</td>
+        </tr>
+        <tr>
+            <td>16:00</td>
+            <td>Charla 5: Pablo Barcelo</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16:50</td>
+            <td>Cierre</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
