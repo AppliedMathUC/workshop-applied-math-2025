@@ -4,6 +4,7 @@ nav: true
 ---
 
 # Abstracts
+
 Claudio Muñoz (Universidad de Chile)
 Bounds on the approximation error for deep neural networks applied to dispersive models: Nonlinear waves
 
