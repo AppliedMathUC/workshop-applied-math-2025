@@ -5,8 +5,7 @@ nav: true
 
 # Abstracts
 
-Claudio Muñoz (Universidad de Chile)
-Bounds on the approximation error for deep neural networks applied to dispersive models: Nonlinear waves
+## Claudio Muñoz. Bounds on the approximation error for deep neural networks applied to dispersive models: Nonlinear waves
 
 We present a framework for deriving rigorous and efficient bounds on the approximation error of deep neural networks in PDE models characterized by branching mechanisms, such as waves, Schrödinger equations, and other dispersive models. This framework utilizes the probabilistic setting established by Henry-Labordère and Touzi. We illustrate this approach by providing rigorous bounds on the approximation error for both linear and nonlinear waves in physical dimensions d=1,2,3, and analyze their respective computational costs starting from time zero. We investigate two key scenarios: one involving a linear perturbative source term, and another focusing on pure nonlinear internal interactions. This is joint work with Nicolás Valenzuela.
 
