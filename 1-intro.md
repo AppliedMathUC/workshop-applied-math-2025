@@ -92,7 +92,7 @@ nav: true
         </tr>
         <tr>
             <td>14:00</td>
-            <td>Charla 4: Gabriela Arriaga</td>
+            <td>Charla 4: Gabriela Arriagada</td>
             <td>14:00</td>
             <td>Charla 8: Matias Cordurier</td>
         </tr>
