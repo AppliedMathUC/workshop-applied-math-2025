@@ -9,8 +9,7 @@ title: Home
 This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudez, Joaquín Carvajal, and Jhon Rodriguez.
 
 <p style="text-align: justify;">
-
-This workshop aims to bring together researchers and students to share recent advancements and foster the exchange of ideas in key areas such as Optimization, Machine Learning, Numerical Analysis, Inverse Problems, and Discrete Mathematics. By creating a collaborative and interdisciplinary environment, we seek to encourage discussions that bridge different mathematical fields and highlight the far-reaching impact of applied mathematics in science, engineering, and technology. Our goal is to promote meaningful interactions, inspire innovative research, and strengthen the connections between academia and industry. This event will take place on March 6–7, 2025, at the San Joaquín campus of the Pontifical Catholic University of Chile.
+This workshop aims to bring together researchers and students to share recent advancements and foster the exchange of ideas in key areas such as Optimization, Machine Learning, Numerical Analysis, Inverse Problems, and Discrete Mathematics. By creating a collaborative and interdisciplinary environment, we seek to encourage discussions that bridge different mathematical fields and highlight the far-reaching impact of applied mathematics in science, engineering, and technology. Our goal is to promote meaningful interactions, inspire innovative research, and strengthen the connections between academia and industry. The event will take place on March 6–7, 2025, at the San Joaquín campus of the Pontifical Catholic University of Chile, in the Ninoslav Bralic Auditorium, located within the Faculty of Mathematics
 </p>
 
 "Mathematics is the queen of the sciences, and the theory of applications of mathematics is the queen of engineering." – James Clerk Maxwell
