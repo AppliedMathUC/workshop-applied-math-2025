@@ -16,3 +16,10 @@ Compositionality and compositional generalization -- the ability to understand n
 I will present recent work https://arxiv.org/abs/2501.19182, (part of the master thesis work of Rafael Elberg, whom I co-supervise with Denis Parra), an approach in which we take the first steps to fill the above gap, and we present a self-supervised generative communication game-based framework for creating compositional encodings in learned representations from pre-trained encoder-decoder models. In an Iterated Learning (IL) protocol involving a sender and a receiver, we apply alternating pressures for compression and diversity of encoded discrete messages, so that the protocol converges to an efficient but unambiguous encoding.
 </p>
 
+## Pablo Barceló. El papel de la lógica en el avance del aprendizaje automático: Tres estudios de caso
+<p style="text-align: justify;">
+En este artículo, presento tres estudios de caso de mi investigación colaborativa que destacan el papel esencial de la lógica en la mejora de nuestra comprensión de las arquitecturas modernas de aprendizaje automático. Los dos primeros ejemplos se centran en las capacidades expresivas de dos arquitecturas prominentes: los Transformers, que han revolucionado las aplicaciones de PLN, y las Redes Neuronales de Grafos, un enfoque líder para la clasificación de datos con estructura de grafo. Empleamos técnicas de lógica temporal para analizar las propiedades que los Transformers pueden reconocer y lógicas modales para examinar las propiedades discernibles por las Redes Neuronales de Grafos. El tercer ejemplo aborda la búsqueda de una IA explicable, demostrando cómo la lógica de primer orden puede utilizarse para diseñar lenguajes que declaren, evalúen y calculen explicaciones de las decisiones tomadas por los modelos de aprendizaje automático.
+</p>
+
+
+
