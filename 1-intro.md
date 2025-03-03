@@ -94,7 +94,7 @@ nav: true
             <td>14:00</td>
             <td>Charla 4: Gabriela Arriagada</td>
             <td>14:00</td>
-            <td>Charla 8: Matias Cordurier</td>
+            <td>Charla 8: Matías Courdurier</td>
         </tr>
         <tr>
             <td>14:50</td>
@@ -116,7 +116,7 @@ nav: true
         </tr>
         <tr>
             <td>16:00</td>
-            <td>Charla 5: Pablo Barcelo</td>
+            <td>Charla 5: Pablo Barceló</td>
             <td></td>
             <td></td>
         </tr>
