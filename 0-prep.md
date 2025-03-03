@@ -11,6 +11,6 @@ nav: true
 4. Pablo Barceló (Pontificia Universidad Católica de Chile-IMC).
 5. Mircea Petrache (Pontificia Universidad Católica de Chile-IMC).
 6. Victor Verdugo (Pontificia Universidad Católica de Chile-IMC).
-7. Matias Cordurier (Pontificia Universidad Católica de Chile).
+7. Matías Courdurier (Pontificia Universidad Católica de Chile).
 8. Gabriela Arriagada (Pontificia Universidad Católica de Chile-IMC).
-9. Benjamin Palacios (Pontificia Universidad Católica de Chile).
+9. Benjamín Palacios (Pontificia Universidad Católica de Chile).
