@@ -4,7 +4,7 @@ title: Home
 
 # Workshop on Applied Mathematics
 
-{% include figure.html img="Workshop.jpeg" alt="intro image here" width="100%" %}
+{% include figure.html img="34.png" alt="intro image here" width="100%" %}
 
 This is an initiative of the PhD students in Mathematics: Cristhian Núñez, Boris Bermudez, Joaquín Carvajal, and Jhon Rodriguez.
 
