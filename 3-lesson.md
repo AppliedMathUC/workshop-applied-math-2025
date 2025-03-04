@@ -5,25 +5,30 @@ nav: true
 
 # Abstracts
 
-## Claudio Muñoz. Bounds on the approximation error for deep neural networks applied to dispersive models: Nonlinear waves
+## Claudio Muñoz. Bounds on the approximation error for deep neural networks applied to dispersive models: Nonlinear waves.
 <p style="text-align: justify;">
 We present a framework for deriving rigorous and efficient bounds on the approximation error of deep neural networks in PDE models characterized by branching mechanisms, such as waves, Schrödinger equations, and other dispersive models. This framework utilizes the probabilistic setting established by Henry-Labordère and Touzi. We illustrate this approach by providing rigorous bounds on the approximation error for both linear and nonlinear waves in physical dimensions d=1,2,3, and analyze their respective computational costs starting from time zero. We investigate two key scenarios: one involving a linear perturbative source term, and another focusing on pure nonlinear internal interactions. This is joint work with Nicolás Valenzuela.
 </p>
 
-## Mircea Petrache. A Communication Framework for Compositional Generation 
+## Mircea Petrache. A Communication Framework for Compositional Generation .
 <p style="text-align: justify;">
 Compositionality and compositional generalization -- the ability to understand novel combinations of known concepts --  are central characteristics of human language and are hypothesized to be essential for human cognition. In machine learning, the emergence of this property has been studied in a communication game setting, where independent agents (a sender and a receiver) converge to a shared encoding policy from a set of states to a space of discrete messages, where the receiver can correctly reconstruct the states observed by the sender using only the sender's messages. The use of communication games in data generation tasks is still largely unexplored, with recent methods for compositional generation focusing mainly on the use of supervised guidance (either through class labels or text). 
 I will present recent work https://arxiv.org/abs/2501.19182, (part of the master thesis work of Rafael Elberg, whom I co-supervise with Denis Parra), an approach in which we take the first steps to fill the above gap, and we present a self-supervised generative communication game-based framework for creating compositional encodings in learned representations from pre-trained encoder-decoder models. In an Iterated Learning (IL) protocol involving a sender and a receiver, we apply alternating pressures for compression and diversity of encoded discrete messages, so that the protocol converges to an efficient but unambiguous encoding.
 </p>
 
-## Pablo Barceló. El papel de la lógica en el avance del aprendizaje automático: Tres estudios de caso
+## Pablo Barceló. El papel de la lógica en el avance del aprendizaje automático: Tres estudios de caso.
 <p style="text-align: justify;">
 En este artículo, presento tres estudios de caso de mi investigación colaborativa que destacan el papel esencial de la lógica en la mejora de nuestra comprensión de las arquitecturas modernas de aprendizaje automático. Los dos primeros ejemplos se centran en las capacidades expresivas de dos arquitecturas prominentes: los Transformers, que han revolucionado las aplicaciones de PLN, y las Redes Neuronales de Grafos, un enfoque líder para la clasificación de datos con estructura de grafo. Empleamos técnicas de lógica temporal para analizar las propiedades que los Transformers pueden reconocer y lógicas modales para examinar las propiedades discernibles por las Redes Neuronales de Grafos. El tercer ejemplo aborda la búsqueda de una IA explicable, demostrando cómo la lógica de primer orden puede utilizarse para diseñar lenguajes que declaren, evalúen y calculen explicaciones de las decisiones tomadas por los modelos de aprendizaje automático.
 </p>
 
-## Gabriela Arriagada. ¿Por qué hace sentido hablar de una matemática ética en la era de la IA?
+## Gabriela Arriagada. ¿Por qué hace sentido hablar de una matemática ética en la era de la IA?.
 <p style="text-align: justify;">
 El desarrollo de la inteligencia artificial (IA) ha revolucionado la matemática aplicada, impulsando avances en optimización, aprendizaje automático y modelización de sistemas complejos. Sin embargo, su implementación plantea desafíos éticos cruciales, como la reproducción de sesgos. En esta presentación, exploraremos la intersección entre la matemática aplicada y la ética de la IA, analizando cómo los modelos matemáticos pueden tanto amplificar como mitigar desigualdades algorítmicas. Se presentarán las nuevas estrategias que hoy se discuten para diseñar algoritmos más justos, el papel de los sistemas híbridos neuro-simbólicos en la demostración de teoremas y el impacto de la IA en la práctica matemática. A través de ejemplos concretos, se discutirá cómo la teoría matemática puede activamente contribuir a evaluar impactos sociales y garantizar la equidad en aplicaciones críticas de IA. Finalmente, reflexionaremos sobre la necesidad de integrar una perspectiva sociotécnica en la formación de matemáticos e ingenieros matemáticos, promoviendo un uso ético y contextualizado de la IA en su investigación.
+</p>
+
+## Victor Verdugo. Randomized Monotone Apportionment.
+<p style="text-align: justify;">
+Apportionment is the act of distributing the seats of a legislature among political parties (or states) in proportion to their vote shares (or populations). A famous impossibility by Balinski and Young (2001) shows that no apportionment method can be proportional up to one seat (quota) while also responding monotonically to changes in the votes (population monotonicity). Grimmett (2004) proposed to overcome this impossibility by randomizing the apportionment, which can achieve quota as well as perfect proportionality and monotonicity -- at least in terms of the expected number of seats awarded to each party. Still, the correlations between the seats awarded to different parties may exhibit bizarre non-monotonicities. When parties or voters care about joint events, such as whether a coalition of parties reaches a majority, these non-monotonicities can cause paradoxes, including incentives for strategic voting. We propose monotonicity axioms ruling out these paradoxes, and study which of them can be satisfied jointly with Grimmett's axioms. Essentially, we require that if a set of parties all receive more votes, the probability of those parties jointly receiving more seats should increase. Our work draws on a rich literature on unequal probability sampling in statistics (studied as dependent randomized rounding in computer science). Our main result shows that a sampling scheme due to Sampford (1967) satisfies Grimmett's axioms and a notion of higher-order correlation monotonicity.
 </p>
 
 
