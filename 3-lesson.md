@@ -31,7 +31,7 @@ El desarrollo de la inteligencia artificial (IA) ha revolucionado la matemática
 Apportionment is the act of distributing the seats of a legislature among political parties (or states) in proportion to their vote shares (or populations). A famous impossibility by Balinski and Young (2001) shows that no apportionment method can be proportional up to one seat (quota) while also responding monotonically to changes in the votes (population monotonicity). Grimmett (2004) proposed to overcome this impossibility by randomizing the apportionment, which can achieve quota as well as perfect proportionality and monotonicity -- at least in terms of the expected number of seats awarded to each party. Still, the correlations between the seats awarded to different parties may exhibit bizarre non-monotonicities. When parties or voters care about joint events, such as whether a coalition of parties reaches a majority, these non-monotonicities can cause paradoxes, including incentives for strategic voting. We propose monotonicity axioms ruling out these paradoxes, and study which of them can be satisfied jointly with Grimmett's axioms. Essentially, we require that if a set of parties all receive more votes, the probability of those parties jointly receiving more seats should increase. Our work draws on a rich literature on unequal probability sampling in statistics (studied as dependent randomized rounding in computer science). Our main result shows that a sampling scheme due to Sampford (1967) satisfies Grimmett's axioms and a notion of higher-order correlation monotonicity.
 </p>
 
-## Alvaro Márquez (DIM). Resolution of chemical equilibrium through the use of PINNs..
+## Alvaro Márquez (DIM). Resolution of chemical equilibrium through the use of PINNs.
 <p style="text-align: justify;">
 The determination of the thermodynamic parameters of a stellar
 atmosphere is not a simple task; it requires solving a significant number of
@@ -41,4 +41,8 @@ solving this problem and laying the foundation for the determination of thermody
 parameters.
 </p>
 
+## Jessica Trespalacios. An Introduction to Gravitational Solitons: Belinski-Zakharov Spacetimes.
+<p style="text-align: justify;">
+In this talk we introduce the particular class of spacetimes that admit two space-like Killing vector fields, these spacetimes correspond to the also called gravisolitons or gravitational solitons. More specifically, we will focus on the Einstein vacuum model Rµν(g̃) = 0, where g̃ is the metric tensor and Rµν is the Ricci tensor, in the setting of the Belinski-Zakharov formalism. This ansatz is compatible with the well-known Gowdy symmetry. The aim is to describe rigorously the conditions for the global existence of small solutions, and their decay in the light cone, as well as the stability of a first set of solitonic solutions (gravisolitons), for the so-called reduced Einstein equation, seen as an identification of the Principal Chiral Field (PCF) model.
+</p>
 
