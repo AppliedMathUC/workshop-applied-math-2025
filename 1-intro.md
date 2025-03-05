@@ -58,13 +58,13 @@ nav: true
             <td>9:30</td>
             <td>Charla 1: Víctor Verdugo</td>
             <td>9:30</td>
-            <td>Minicharla estudiante</td>
+            <td>Minicharla: Jessica Trespalacios</td>
         </tr>
         <tr>
             <td>9:50</td>
             <td></td>
             <td>9:50</td>
-            <td>Minicharla estudiante</td>
+            <td>Minicharla: Juan Jose Molina</td>
         </tr>
         <tr>
             <td>10:20</td>
@@ -98,13 +98,13 @@ nav: true
         </tr>
         <tr>
             <td>14:50</td>
-            <td>Minicharla estudiante</td>
+            <td>Minicharla: Alvaro Márquez</td>
             <td>14:50</td>
             <td>Charla 9: Alberto Mercado</td>
         </tr>
         <tr>
             <td>15:10</td>
-            <td>Minicharla estudiante</td>
+            <td>Minicharla: Jefferson Prada</td>
             <td></td>
             <td></td>
         </tr>
