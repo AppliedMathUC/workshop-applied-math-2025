@@ -50,3 +50,13 @@ In this talk we introduce the particular class of spacetimes that admit two spac
 <p style="text-align: justify;">
 Control theory for systems described by the Navier-Stokes and Boussinesq systems has become increasingly important due to its practical applications in areas like fluid dynamics and process optimization. One direction in this field is insensitizing control, which focuses on designing strategies to make certain system behaviors unaffected by initial disturbances or changes in the domain. This approach builds on key mathematical properties, such as the existence of weak solutions in Sobolev spaces, and uses advanced tools like Carleman inequalities, duality methods, and functional analysis results.
 </p>
+
+## Matías Courdurier. Reconstructing elastic strain fields from its Longitudinal Ray Transform.
+<p style="text-align: justify;">
+In the problem of Bragg-edge elastic strain tomography, measurements are obtained from energy resolved neutron transmission imaging, which provides information about the Longitudinal Ray Transform (LRT) of the elastic strain field. The goal is to recover the elastic strain field by inverting its LRT. The inversion of the ray transform for tensor fields is a well studied problem [1]. It is known that only the solenoidal part of symmetric tensor fields can be recovered from their LRT, there are inversion formulas available that reconstruct such solenoidal components and there are stability estimates for such reconstruction. Nonetheless, by taking into account that elastic strain fields additionally satisfy an equilibrium equation, it is possible to also recover the potential part of the elastic strain, for simply connected objects [3], or under some extra requirements [2].
+In this talk I will present the problem of inverting the LRT for elastic strain tomography that arises from energy resolved neutron transmission imaging,  I will recall the classic results about the inversion of the ray transform for tensor fields, and I will present the contributions of [2,3] dealing with the reconstruction of the potential part of the elastic strain field using the equilibrium equation that is satisfied.
+[1] V. A. Sharafutdinov, Integral geometry of tensor fields, Vol. 1, Walter de Gruyter, 2012.
+[2] C M Wensrich, S Holman, M Courdurier, W R B Lionheart, A P Polyakova and I E Svetov, Direct inversion of the Longitudinal ray transform for 2D residual elastic strain fields, Inverse Problems, Volume 40, Number 7, 2024.
+[3] C M Wensrich, S Holman, W R B Lionheart, M Courdurier, A P Polyakova, I E Svetov, T Doubikin, General reconstruction of elastic strain fields from their Longitudinal Ray Transform, arXiv:2408.10250, 2024.
+</p>
+
