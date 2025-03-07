@@ -5,6 +5,11 @@ nav: true
 
 # Abstracts
 
+## Soledad Villar. Machine learning y simetrías: invariantes y teoría de Galois .
+<p style="text-align: justify;">
+En esta charla desarrollaremos ideas de álgebra que se utilizan para el diseño y análisis de métodos de machine learning en datos con estructura geométrica como puntos en espacio euclideano y grafos. En particular teoría de invariantes y teoría de Galois.
+</p>
+
 ## Claudio Muñoz. Bounds on the approximation error for deep neural networks applied to dispersive models: Nonlinear waves.
 <p style="text-align: justify;">
 We present a framework for deriving rigorous and efficient bounds on the approximation error of deep neural networks in PDE models characterized by branching mechanisms, such as waves, Schrödinger equations, and other dispersive models. This framework utilizes the probabilistic setting established by Henry-Labordère and Touzi. We illustrate this approach by providing rigorous bounds on the approximation error for both linear and nonlinear waves in physical dimensions d=1,2,3, and analyze their respective computational costs starting from time zero. We investigate two key scenarios: one involving a linear perturbative source term, and another focusing on pure nonlinear internal interactions. This is joint work with Nicolás Valenzuela.
